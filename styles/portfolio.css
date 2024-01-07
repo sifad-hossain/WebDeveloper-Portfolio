@@ -1,0 +1,114 @@
+
+/* <h3 class="nav-title">Ma<span class="text-primary">r</span>y</h3>
+<ul>
+<li> <a href="">Portfolio</a></li>
+<li> <a href=""></a>Blog</a></li>
+<li><button class="btn-primary">Hire Me</button></li>
+</ul> */
+
+/* 
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+nav{
+    display: flex;
+}
+
+
+.text-primary{
+    color: #fd6e0a; 
+}
+
+
+.btn-primary{
+    border-radius:5px;
+    background:#fd6e0a;
+}
+
+
+.nav-title{
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800;
+}
+
+
+nav > ul{
+    display: flex;
+}
+
+
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+
+
+nav a{
+    text-decoration: none;
+    color: #474747;
+}
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ body{
+    font-family:'Open Sans', sans-serif ;
+ }
+
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+ .text-primary{
+    color: #fd6e0a; 
+ }
+
+ .btn-primary{
+    color: white;
+    background-color: #fd6e0a; 
+    border-radius: 5px;
+    border: 0px;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 15px 35px;
+ }
+
+.nav-title{
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800; 
+}
+
+nav >ul{
+    display: flex;
+    align-items: center;
+}
+
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+
+nav a{
+    text-decoration: none;
+    color: #474747;
+}
